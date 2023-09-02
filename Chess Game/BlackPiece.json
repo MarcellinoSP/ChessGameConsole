@@ -1,0 +1,188 @@
+[
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p1",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 0,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p2",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 1,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p3",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 2,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p4",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 3,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p5",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 4,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p6",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 5,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p7",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 6,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Pawn:#ChessGame",
+    "_pieceID": "p8",
+    "_pieceType": "Pawn",
+    "captured": false,
+    "position": {
+      "_files": 7,
+      "_rank": 1
+    },
+    "_enPassantStatus": false,
+    "_isMoved": false,
+    "_promotionStatus": false
+  },
+  {
+    "__type": "Rook:#ChessGame",
+    "_pieceID": "r1",
+    "_pieceType": "Rook",
+    "captured": false,
+    "position": {
+      "_files": 0,
+      "_rank": 0
+    }
+  },
+  {
+    "__type": "Knight:#ChessGame",
+    "_pieceID": "n1",
+    "_pieceType": "Knight",
+    "captured": false,
+    "position": {
+      "_files": 1,
+      "_rank": 0
+    }
+  },
+  {
+    "__type": "Bishop:#ChessGame",
+    "_pieceID": "b1",
+    "_pieceType": "Bishop",
+    "captured": false,
+    "position": {
+      "_files": 2,
+      "_rank": 0
+    }
+  },
+  {
+    "__type": "Queen:#ChessGame",
+    "_pieceID": "q1",
+    "_pieceType": "Queen",
+    "captured": false,
+    "position": {
+      "_files": 3,
+      "_rank": 0
+    }
+  },
+  {
+    "__type": "King:#ChessGame",
+    "_pieceID": "k1",
+    "_pieceType": "King",
+    "captured": false,
+    "position": {
+      "_files": 4,
+      "_rank": 0
+    },
+    "_castlingDone": false,
+    "_isMoved": false
+  },
+  {
+    "__type": "Bishop:#ChessGame",
+    "_pieceID": "b2",
+    "_pieceType": "Bishop",
+    "captured": false,
+    "position": {
+      "_files": 5,
+      "_rank": 0
+    }
+  },
+  {
+    "__type": "Knight:#ChessGame",
+    "_pieceID": "n2",
+    "_pieceType": "Knight",
+    "captured": false,
+    "position": {
+      "_files": 6,
+      "_rank": 0
+    }
+  },
+  {
+    "__type": "Rook:#ChessGame",
+    "_pieceID": "r2",
+    "_pieceType": "Rook",
+    "captured": false,
+    "position": {
+      "_files": 7,
+      "_rank": 0
+    }
+  }
+]

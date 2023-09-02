@@ -1,0 +1,106 @@
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\testhost.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.deps.json
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.runtimeconfig.json
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.exe
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\testhost.exe
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\nunit.engine.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\nunit.engine.api.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\nunit.engine.core.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.Test.deps.json
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.Test.runtimeconfig.json
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.Test.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.Test.pdb
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\NLog.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\nunit.framework.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\bin\Debug\net7.0\Chess Game.pdb
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.csproj.AssemblyReference.cache
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.AssemblyInfoInputs.cache
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.AssemblyInfo.cs
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.csproj.CoreCompileInputs.cache
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.csproj.CopyComplete
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\refint\Chess Game.Test.dll
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.pdb
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\Chess Game.Test.genruntimeconfig.cache
+c:\Users\user\Documents\Berkas Daftar Kerja\Chess Game Project\Chess Game.Test\obj\Debug\net7.0\ref\Chess Game.Test.dll
