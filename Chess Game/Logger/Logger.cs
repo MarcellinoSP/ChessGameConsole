@@ -8,7 +8,7 @@ public class GameLogger
 	public GameLogger()
 	{
 		var fileDirectory = Directory.GetCurrentDirectory();
-		var loggerDirectory = Path.Combine(fileDirectory, ".//Log//log.config");
+		var loggerDirectory = Path.Combine(fileDirectory, ".//Logger//log.config");
 		LogManager.LoadConfiguration(loggerDirectory);
 	}
 	
